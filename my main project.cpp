@@ -35,6 +35,7 @@ void searchProducts();
 int main() {
     int choice;
     loadProducts();
+    //this is the E-commerce store 
 
     cout << "\nWelcome to E-Commerce Store!\n";
     cout << "1. Register\n2. Login\nChoose an option: ";
